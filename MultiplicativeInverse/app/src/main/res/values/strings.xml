@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MultiplicativeInverse</string>
+    <string name="multiplicative_inverse_generation">Multiplicative Inverse Generation</string>
+    <string name="x_mod">* x mod</string>
+    <string name="get_value_of_x">Get Value of x</string>
+    <string name="_1">= 1</string>
+</resources>
